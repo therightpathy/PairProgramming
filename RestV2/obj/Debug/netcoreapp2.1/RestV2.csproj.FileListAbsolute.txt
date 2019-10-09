@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.RazorAssemblyInfo.cache
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.RazorAssemblyInfo.cs
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.AssemblyInfo.cs
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.RazorTargetAssemblyInfo.cache
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\RestV2.deps.json
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\RestV2.runtimeconfig.json
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\RestV2.runtimeconfig.dev.json
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\RestV2.dll
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\RestV2.pdb
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\bin\Debug\netcoreapp2.1\PairProgramming.pdb
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.csproj.CopyComplete
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.dll
+C:\Users\chris\Documents\Projects\3 semester\PairProgramming\RestV2\obj\Debug\netcoreapp2.1\RestV2.pdb
