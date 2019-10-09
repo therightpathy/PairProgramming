@@ -85,10 +85,6 @@ namespace PairProgramming
             }
         }
 
-
-
-
-
         public string Title
         {
             get {return _title; }
