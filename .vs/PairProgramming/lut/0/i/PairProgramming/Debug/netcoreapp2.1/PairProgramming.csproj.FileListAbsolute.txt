@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\b\PairProgramming\Debug\netcoreapp2.1\PairProgramming.deps.json
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\b\PairProgramming\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.AssemblyInfo.cs
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.csproj.CopyComplete
+C:\Users\User\Desktop\Webpack-template-master\PairProgramming\.vs\PairProgramming\lut\0\i\PairProgramming\Debug\netcoreapp2.1\PairProgramming.dll
