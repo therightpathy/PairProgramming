@@ -14,10 +14,10 @@ namespace PairProgramming
         private string _label;
         private string _genre;
 
-        public Music()
-        {
+        //public Music()
+        //{
             
-        }
+        //}
 
         public Music(string title, string artist, double duration, int yearOfPub, string label, string genre)
         {
@@ -63,7 +63,7 @@ namespace PairProgramming
 
         private static void CheckYearOfPub(int yearOfPub)
         {
-            if (yearOfPub <= DateTime.Now.Year || yearOfPub >= 1850)
+            if (yearOfPub >= DateTime.Now.Year || yearOfPub <= 1850)
             {
                 throw new ArgumentOutOfRangeException("Music kan kun tilføjes efter det er udgivet");
             }
@@ -71,7 +71,7 @@ namespace PairProgramming
 
         private static void CheckLabel(string label)
         {
-            if (string.IsNullOrWhiteSpace(label) || label.Length > 3)
+            if (string.IsNullOrWhiteSpace(label) || label.Length < 3)
             {
                 throw new ArgumentException("Der skal være noget i label og det skal mere end 2 tegn");
             }
