@@ -7,3 +7,12 @@ C:\Users\chris\Documents\Projects\3 semester\PairProgramming\PairProgramming\obj
 C:\Users\chris\Documents\Projects\3 semester\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.AssemblyInfo.cs
 C:\Users\chris\Documents\Projects\3 semester\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.dll
 C:\Users\chris\Documents\Projects\3 semester\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.pdb
+C:\Users\User\source\repos\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.deps.json
+C:\Users\User\source\repos\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\User\source\repos\PairProgramming\PairProgramming\bin\Debug\netcoreapp2.1\PairProgramming.pdb
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.AssemblyInfo.cs
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.dll
+C:\Users\User\source\repos\PairProgramming\PairProgramming\obj\Debug\netcoreapp2.1\PairProgramming.pdb
