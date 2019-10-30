@@ -14,10 +14,10 @@ namespace PairProgramming
         private string _label;
         private string _genre;
 
-        //public Music()
-        //{
+        public Music()
+        {
             
-        //}
+        }
 
         public Music(string title, string artist, double duration, int yearOfPub, string label, string genre)
         {

@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Immutable;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
+using PairProgramming;
 
 namespace RestV2.Manager
 {
@@ -27,7 +30,7 @@ namespace RestV2.Manager
         private const String INSERT = "INSERT INTO PairMusik (Process_Ordre_Nr, Kontrol_Nr, Dato_Tid) VALUES(@Process_Ordre_Nr, @Kontrol_Nr, @Dato_Tid)";
         private const String DELETE = "DELETE FROM PairMusik WHERE Kontrol_Nr = @ID";
         #endregion
-
+        #region hjælp statements
         /*
         INSERT INTO PairMusik VALUES ('Radio', 'Rammstein', 4.40, 2019, 'Universal', 'New German Hard');
 
@@ -49,9 +52,58 @@ namespace RestV2.Manager
 
 
         );
-
+        
 
         */
+        #endregion
+
+
+        #region Metoder
+
+        //GETALL:api/PairProgramming
+        public IEnumerable<Music> Get()
+        {
+            List<Music> liste = new List<Music>();
+
+            SqlConnection conn = new SqlConnection(ConnectionString);
+            conn.Open();
+            SqlCommand cmd = new SqlCommand(GETALL, conn);
+            SqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                Music music = ReadMusic(reader);
+                liste.Add(music);
+            }
+            conn.Close();
+            return liste;
+        }
+
+
+
+
+
+
+
+        #endregion
+
+
+        #region Hjælpemetoder
+        private Music ReadMusic(SqlDataReader reader)
+        {
+            Music tempmusic = new Music();
+
+            tempmusic.Title = reader.GetString(0);
+            tempmusic.Artist = reader.GetString(1);
+            tempmusic.Duration = reader.GetFloat(2);
+            tempmusic.YearOfPub = reader.GetInt32(3);
+            tempmusic.Label = reader.GetString(4);
+            tempmusic.Genre = reader.GetString(5);
+           
+            return tempmusic;
+
+        }
+        #endregion
     }
 }
 
@@ -211,7 +263,7 @@ public class VaegtKontrolManager
         /*
         create view hentMaxKontrol_Nr as 
         select Max(Kontrol_Nr) as maxKontrol, Process_Ordre_Nr from VaegtKontrol group by Process_Ordre_Nr
-        */
+        
         
     }
 
